@@ -1,2 +1,3 @@
-# Projeto-Jogo-Resta-Um-em-C
-Projeto do jogo de tabuleiro Resta Um em linguagem C, desenvolvido em dupla, para conclusão do curso de Lógica de Programação do bacharelado em Engenharia de Computação
+# Jogo-Resta-Um-em-C
+Este é um projeto desenvolvido com meu colega de turma Gabriel Lima, 
+nós desenvolvemos o jogo de tabuleiro Resta Um utilizando linguagem C.
